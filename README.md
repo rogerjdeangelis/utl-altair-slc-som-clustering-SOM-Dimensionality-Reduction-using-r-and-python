@@ -12,6 +12,11 @@ Altair slc som clustering SOM Dimensionality Reduction using r and python
     Altair community
     https://community.altair.com/discussion/42426/som-clustering?tab=all
 
+    Graphic output
+    https://github.com/rogerjdeangelis/utl-altair-slc-som-clustering-SOM-Dimensionality-Reduction-using-r-and-python/blob/main/iris_som_codes.png
+    https://github.com/rogerjdeangelis/utl-altair-slc-som-clustering-SOM-Dimensionality-Reduction-using-r-and-python/blob/main/iris_som_counts.png
+    https://github.com/rogerjdeangelis/utl-altair-slc-som-clustering-SOM-Dimensionality-Reduction-using-r-and-python/blob/main/iris_som_sepal.png
+    https://github.com/rogerjdeangelis/utl-altair-slc-som-clustering-SOM-Dimensionality-Reduction-using-r-and-python/blob/main/iris_som_umatrix.png
     /*                   _
     (_)_ __  _ __  _   _| |_
     | | `_ \| `_ \| | | | __|
