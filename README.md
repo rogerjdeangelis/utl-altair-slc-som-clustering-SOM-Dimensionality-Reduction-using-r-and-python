@@ -8,6 +8,9 @@ Altair slc som clustering SOM Dimensionality Reduction using r and python
     Could not get R and Python to agree?
 
     Altair slc som clustering SOM Dimensionality Reduction using r and python
+    
+    Too long to post on list see
+    https://github.com/rogerjdeangelis/utl-altair-slc-som-clustering-SOM-Dimensionality-Reduction-using-r-and-python
 
     Altair community
     https://community.altair.com/discussion/42426/som-clustering?tab=all
